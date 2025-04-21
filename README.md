@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Youv1260
+- 👋 Hi, I’m @L4ami
 - 👀 I’m interested in new technology
 - 🌱 I’m currently learning python, C+,algorithm,and a lot more...
 - 💞️ I’m looking to collaborate with no one. 
